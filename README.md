@@ -1,6 +1,5 @@
 ### Hi there 👋
-##🔭 I’m currently working on a wesite called ProVids
-📫 How to reach me: call me and ill make you a video sharing website! +44 7926 706739
+##🔭 I’m currently working on new projects
 <!--
 **ProVids/ProVids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
